@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OOP\FileSystem\20120502\Folder.h(34,44): warning C4244: '+=': conversion from 'uintmax_t' to 'int', possible loss of data
+  20120502.vcxproj -> D:\OOP\FileSystem\x64\Debug\20120502.exe
